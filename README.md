@@ -1,7 +1,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://auth.geeksforgeeks.org/user/vagishyagnik)
 <h1 align="center">Hi 👋, I'm Vagish Yagnik</h1>
 <h3 align="center">Experienced backend developer skilled in Java and Spring, seeking opportunities that leverage my expertise for innovative solutions.</h3>
-<img align="right" alt="Coding" width="250" src="https://media.tenor.com/soWJduUFlq8AAAAM/back-end-sushi.gif">
+<img align="right" alt="Coding" width="150" src="https://media.tenor.com/soWJduUFlq8AAAAM/back-end-sushi.gif">
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vagishyagnik" alt="vagishyagnik" /></a> </p>
 
 - 🔭 I’m currently working on [Some System Design Problems](https://github.com/vagishyagnik/LowLevelDesign)
